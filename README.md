@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning ...  
-<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=Azure DevOps&logoColor=white">
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
+<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=Azure DevOps&logoColor=white"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
 
