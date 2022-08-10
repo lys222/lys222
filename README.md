@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🔭 I’m currently working on ...  
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=black">
+<img src="https://img.shields.io/badge/Azure-0078D4?style=flat-sqaure&logo=MicrosoftAzure&logoColor=white"> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-sqaure&logo=Amazon AWS&logoColor=black">
 
 
 ### 🌱 I’m currently learning ...  
-<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=for-the-badge&logo=Azure DevOps&logoColor=white"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white">
+<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-sqaure&logo=Azure DevOps&logoColor=white"> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-sqaure&logo=PowerShell&logoColor=white">
 
