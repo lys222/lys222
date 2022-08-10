@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 ### 🔭 I’m currently working on ...  
 <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=Amazon AWS&logoColor=black">
 
 
 ### 🌱 I’m currently learning ...  
