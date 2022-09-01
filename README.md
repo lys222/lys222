@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 
 ### 🌱 I’m currently learning ...  
-<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-sqaure&logo=Azure DevOps&logoColor=white"> 
-<img src="https://img.shields.io/badge/Python-005CA0?style=flat-sqaure&logo=Python&logoColor=yellow"> <!--<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-sqaure&logo=PowerShell&logoColor=white">
+<img src="https://img.shields.io/badge/Azure DevOps-0078D7?style=flat-sqaure&logo=Azure DevOps&logoColor=white"> <img src="https://img.shields.io/badge/Python-005CA0?style=flat-sqaure&logo=Python&logoColor=yellow"> <!--<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-sqaure&logo=PowerShell&logoColor=white">
 -->
